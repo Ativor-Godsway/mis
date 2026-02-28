@@ -38,7 +38,9 @@ const Home = () => {
           />
 
           <div className="flex-1">
-            <h2 className="text-2xl font-bold text-slate-800">John Doe</h2>
+            <h2 className="text-2xl font-bold text-slate-800">
+              Ativor Godsway
+            </h2>
 
             <p className="text-gray-500">Student No: 22467813</p>
 
