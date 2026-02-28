@@ -1,7 +1,7 @@
 // src/router.jsx
 import { createBrowserRouter } from "react-router-dom"; // Import createBrowserRouter
 import App from "../App";
-import Home from "../pages/home";
+import Home from "../pages/Home";
 import CourseRegistration from "../pages/CourseRegistration";
 import Profile from "../pages/Profile";
 import Finance from "../pages/Finance";
